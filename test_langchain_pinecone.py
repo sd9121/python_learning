@@ -93,4 +93,4 @@ for ids in index.list(namespace=namespace):
 
 #When you no longer need the rag-getting-started index, use the delete_index operation to delete it:
 
-pc.delete_index(index_name)
+# pc.delete_index(index_name)
